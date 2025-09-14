@@ -70,7 +70,3 @@ Explore and learn about the Earth's incredible structure with this interactive a
 ***
 
 This README provides a clear overview and usage instructions tailored to your interactive Earth Layers web project.
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/55451611/d28c7501-6967-4e10-a636-bc66f48d6843/index.html)
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/55451611/1c9fb7ca-1ac2-4b80-b407-2e11c7bcd911/script.js)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/55451611/1fbeee56-d452-4c71-817f-c463f512af8e/style.css)
