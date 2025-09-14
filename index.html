@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Earth's Structure and Composition</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    
+    <div class="container">
+        
+       <center> <h1>Earth's Structure and Composition</h1></center>
+       
+       
+
+       <div class="earth">
+            <div class="layer-crust" onclick="showInfo('crust')">Crust</div>
+            <div class="layer-mantle" onclick="showInfo('mantle')">Mantle</div>
+            <div class="layer-outer-core" onclick="showInfo('outer-core')">Outer Core</div>
+            <div class="layer-inner-core" onclick="showInfo('inner-core')">Inner Core</div>
+        </div>
+        
+       <center> <button class="btn" onclick="showFunFact()">Fun Fact!</button> </center>
+    </div>
+    <div id="info-popup" class="popup">
+        <span class="close" onclick="closePopup()">×</span>
+        <div id="info-content"></div>
+    </div>
+    <div id="fun-fact-popup" class="popup">
+        <span class="close" onclick="closeFunFact()">×</span>
+        <div id="fun-fact-content"></div>
+    </div>
+    <div id="quiz-popup" class="popup">
+        <span class="close" onclick="closeQuiz()">×</span>
+        <div id="quiz-content"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
